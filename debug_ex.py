@@ -1,6 +1,6 @@
 def calculate_odd_average(numbers):
     """ 
-    Returns the avergae of the odd number in [numbers].
+    Returns the avergae of the odd numbers in [numbers].
     Returns 0 if there's no odd numbers
     """
     total = 0
