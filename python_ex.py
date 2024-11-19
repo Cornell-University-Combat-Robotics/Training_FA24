@@ -18,4 +18,3 @@ class ShoppingCart:
       '''write body for the for loop '''
 
     return total
-  
